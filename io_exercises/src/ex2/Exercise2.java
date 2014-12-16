@@ -22,7 +22,7 @@ public class Exercise2
 	{
 		if(args.length < 0)
 		{
-			System.out.println("USAGE: java HexaViewer FILENAME");
+			System.out.println("USAGE: java Exercise2 FILENAME");
 			System.exit(0);
 		}
 		
